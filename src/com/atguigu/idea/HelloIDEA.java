@@ -12,6 +12,6 @@ package com.atguigu.idea;
 public class HelloIDEA {
 
     public static void main(String[] args) {
-        System.out.println("Hi, GitHub, Are you going well?");
+        System.out.println("Hi, GitHub, Are you going well and want to eat something?");
     }
 }
